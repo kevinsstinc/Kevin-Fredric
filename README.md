@@ -1,9 +1,13 @@
-```
-<img width="354" height="360" alt="ascii-art (1)" src="https://github.com/user-attachments/assets/335cd20b-748d-4326-b598-eaede277f0f9" />
-
+<table>
+  <tr>
+    <td>
+      <img width="462" height="468" alt="ascii-art (4)" src="https://github.com/user-attachments/assets/3e83c632-d292-4cad-ad40-da0da0d628d5" />
+    </td>
+    <td>
+      <pre>
 User:        Joseph Kevin Fredric
 ----------------------------
-Role:        Student Developer & SwiftUI Enthusiast
+Role:        Student Developer & SwiftUI Developer
 School:      School Of Science and Technology, Singapore
 Grade:       Secondary 2 
 Age:         14
@@ -20,4 +24,7 @@ OS:          macOS Sequoia 15.3.2 (Apple Silicon)
 Learning:    Machine Learning · Deep Linking
 
 Email:       kevinfredricjoseph@gmail.com
-```
+      </pre>
+    </td>
+  </tr>
+</table>
